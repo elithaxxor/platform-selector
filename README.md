@@ -4,7 +4,9 @@
 
 Platform Selector is a versatile JavaScript-based project designed to integrate your current program with APIs for logging and monitoring. It supports multiple platforms such as Telegram, WhatsApp, and Discord. The project provides both a frontend user interface and a backend server to facilitate real-time command execution and data visualization.
 
-### Running the Setup Script (Optional) - My setup is for streaming US equities live data. The .sh will give you an empty space, with a working API and frontend to integrate into your own project. 
+### Running the Setup Script (Optional) - (setup.sh) 
+
+My setup is for streaming US equities live data. The .sh will give you an empty space, with a working API and frontend to integrate into your own project. 
 
 
 ## Features
